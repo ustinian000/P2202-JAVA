@@ -73,7 +73,7 @@
               <text value="注册账号"/>
             </properties>
           </component>
-          <component id="e76ed" class="javax.swing.JButton" binding="登录Button" default-binding="true">
+          <component id="e76ed" class="javax.swing.JButton" binding="loginButton">
             <constraints>
               <grid row="2" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
